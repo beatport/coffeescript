@@ -25,7 +25,8 @@
     "bin",
     "lib",
     "register.js",
-    "repl.js"
+    "repl.js",
+    "docs/v1/browser-compiler/coffee-script.js"
   ],
   "scripts": {
     "test": "node ./bin/cake test",
